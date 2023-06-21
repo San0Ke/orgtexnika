@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 09 Jun 2023 14:41:25 at http://pear.com.ua/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "uk, en, *" http://pear.com.ua/ -O1 "C:\Мої Web Сайти\Technomarket" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:41:38	Warning: 	Note: due to pear.com.ua remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+14:42:21	Error: 	"Method Not Allowed" (405) at link pear.com.ua/xmlrpc.php (from pear.com.ua/)
+14:44:17	Warning: 	Moved Permanently for pear.com.ua/?p=42
+14:44:17	Warning: 	File has moved from pear.com.ua/?p=42 to http://pear.com.ua/services__trashed/bfp-print/
+14:44:17	Error: 	"Not Found" (404) at link pear.com.ua/?page_id=12 (from pear.com.ua/services__trashed/bfp-print/)
+14:44:17	Warning: 	Moved Permanently for pear.com.ua/?p=44
+14:44:17	Warning: 	File has moved from pear.com.ua/?p=44 to http://pear.com.ua/services__trashed/phone/
+14:44:17	Warning: 	Moved Permanently for pear.com.ua/?p=46
+14:44:17	Warning: 	File has moved from pear.com.ua/?p=46 to http://pear.com.ua/services__trashed/consumables/
+14:44:17	Warning: 	Moved Permanently for pear.com.ua/?p=48
+14:44:17	Warning: 	File has moved from pear.com.ua/?p=48 to http://pear.com.ua/services__trashed/poslugy/
+14:44:22	Warning: 	Moved Permanently for pear.com.ua/?p=93
+14:44:22	Warning: 	File has moved from pear.com.ua/?p=93 to http://pear.com.ua/pravyla-bezpeky-pry-roboti-z-pk/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 5 seconds : 178 links scanned, 170 files written (4069707 bytes overall) [4161043 bytes received at 22492 bytes/sec], 44.5 requests per connection
+(2 errors, 11 warnings, 0 messages)
